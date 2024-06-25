@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm from El Salvador 🙋‍♂️<br>I'm currently working on Web development 🧑<br>I'm a student of systems engineer 🚀
 
-```
+```js
 const willianChavez = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS],
