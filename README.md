@@ -1,6 +1,15 @@
 # 💫 About Me:
 I'm from El Salvador 🙋‍♂️<br>I'm currently working on Web development 🧑<br>I'm a student of systems engineer 🚀
 
+```
+const willianChavez = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Jest, Docker, Nest JS],
+  architecture: ["microservices", "event-driven", "MVC", "Client-Server"]
+}
+```
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/willian-chávez-b026211b6) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Chavezzz3) 
